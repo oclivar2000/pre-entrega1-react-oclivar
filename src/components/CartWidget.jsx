@@ -3,7 +3,7 @@ export const CartWidget = () => {
 	return (
 		<>
 			<img src={carro} alt="carrito" />
-			<span>45</span>
+			<span>11</span>
 		</>
 	);
 };
